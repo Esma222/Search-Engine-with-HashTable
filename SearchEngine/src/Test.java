@@ -15,7 +15,7 @@ public class Test {
 		 try {
 		
 		 //ADD PART
-		 String[] stopWords = getTXTWords("stop_words_en.txt");//Stop words array
+		 String[] stopWords = getTXTWords("stop_words_en.txt");//Stop words array.
 		 //Hash Dictionary created.
          HashedDictionary<Integer, String , String, Integer> sportFilesDataBase = new HashedDictionary<Integer, String, String, Integer>();
          
